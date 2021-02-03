@@ -46,6 +46,8 @@ https://18comic.vip/search/photos?search_query=%E7%84%A1%E4%BF%AE%E6%AD%A3&page=
 1.
 ![image](https://github.com/AndreDommond/Python-jmtt/blob/master/img/3.png)
 
+# 注意：复制后需要将符号'\'改为'/'再进行输入
+
 2.
 ![image](https://github.com/AndreDommond/Python-jmtt/blob/master/img/4.png)
 
