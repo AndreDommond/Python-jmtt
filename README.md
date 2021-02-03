@@ -6,7 +6,9 @@
 
 2.可自己控制所爬的页数(也可控制想爬的分类)
 
-连接类型 https://18comic1.one/search/photos?search_query=%E8%BF%91%E8%A6%AA%E4%BA%82%E5%80%AB&page=1 
+连接类型 
+
+https://18comic1.one/search/photos?search_query=%E8%BF%91%E8%A6%AA%E4%BA%82%E5%80%AB&page=1 
 
 类似于这种，去掉后面的（&page=1）的类型也可以
 
