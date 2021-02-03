@@ -8,9 +8,9 @@
 
 连接类型 
 
-https://18comic1.one/search/photos?search_query=%E8%BF%91%E8%A6%AA%E4%BA%82%E5%80%AB&page=1 
+https://18comic.vip/search/photos?search_query=%E7%84%A1%E4%BF%AE%E6%AD%A3&page=2
 
-类似于这种，去掉后面的（&page=1）的类型也可以
+类似于这种，去掉后面的（&page=2）的链接类型也可以
 
 3.有分类的会自动爬取
 
