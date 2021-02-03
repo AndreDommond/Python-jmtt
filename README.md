@@ -5,6 +5,10 @@
 
 # 使用时需自备代理
 
+# 最终结果展示：
+ ![image](https://github.com/AndreDommond/Python-jmtt/blob/master/img/1.png)
+ ![image](https://github.com/AndreDommond/Python-jmtt/blob/master/img/2.png)
+
 # 主要功能如下：
 
 1.可爬取每个分类里的所有漫画
@@ -37,6 +41,28 @@ https://18comic.vip/search/photos?search_query=%E7%84%A1%E4%BF%AE%E6%AD%A3&page=
 
 11.代码讲解放在注释里了自行查看
 
-12.使用此代码即同意不可用于商业用途，如果过度使用出现追责与刑事纠纷本人不负任何责任。
+# 使用步骤
 
+1.
+![image](https://github.com/AndreDommond/Python-jmtt/blob/master/img/3.png)
 
+2.
+![image](https://github.com/AndreDommond/Python-jmtt/blob/master/img/4.png)
+
+3.
+![image](https://github.com/AndreDommond/Python-jmtt/blob/master/img/5.png)
+
+4.
+![image](https://github.com/AndreDommond/Python-jmtt/blob/master/img/6.png)
+
+5.
+![image](https://github.com/AndreDommond/Python-jmtt/blob/master/img/7.png)
+
+6.
+![image](https://github.com/AndreDommond/Python-jmtt/blob/master/img/8.png)
+
+# 输入四个变量后按回车即可，exe没有东西出现是正常现象，漫画会自动放到输入的路径里
+
+# 最后enjoy！
+
+# 使用此代码即默认同意不可用于商业用途，如果过度使用出现追责与刑事纠纷本人不负任何责任。
