@@ -13,6 +13,8 @@
 
 1.可爬取每个分类里的所有漫画
 
+ ![image](https://github.com/AndreDommond/Python-jmtt/blob/master/img/msedge_D28WFqPmCm.png) 
+
 2.可自己控制所爬的页数(也可控制想爬的分类)
 
 连接类型 
