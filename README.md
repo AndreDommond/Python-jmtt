@@ -8,7 +8,7 @@
 # 最终结果展示：
  ![image](https://github.com/AndreDommond/Python-jmtt/blob/master/img/1.png)
  ![image](https://github.com/AndreDommond/Python-jmtt/blob/master/img/2.png)
-
+ ![image](https://github.com/AndreDommond/Python-jmtt/blob/master/img/9.png) 
 # 主要功能如下：
 
 1.可爬取每个分类里的所有漫画
