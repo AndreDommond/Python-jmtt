@@ -6,9 +6,32 @@
 # 使用时需自备代理
 
 # 最终结果展示：
- ![image](https://github.com/AndreDommond/Python-jmtt/blob/master/img/1.png)
- ![image](https://github.com/AndreDommond/Python-jmtt/blob/master/img/2.png)
- ![image](https://github.com/AndreDommond/Python-jmtt/blob/master/img/9.png) 
+  ![image](https://github.com/AndreDommond/Python-jmtt/blob/master/img/9.png)
+  
+###### 新增功能:
+
+1.可下载单本漫画及其目录
+
+# 方法如下：
+![image](https://github.com/AndreDommond/Python-jmtt/blob/master/img/11.png)
+![image](https://github.com/AndreDommond/Python-jmtt/blob/master/img/12.png)
+![image](https://github.com/AndreDommond/Python-jmtt/blob/master/img/13.png)
+![image](https://github.com/AndreDommond/Python-jmtt/blob/master/img/14.png)
+
+2.对反扒处理辨别更加准确（基本100%了）
+
+3.修复爬取量过大时，exe自动闪退（只要你梯子不断连20s以上，就保证能完成任务）
+
+# 这里推荐使用Clash代理，会自动测试url连通性并切换到最快的那个
+
+4.增加随机useragent功能
+
+5.爬取完成后exe文件自动关闭
+
+6.链接通用性增加
+
+# 只要是使用禁漫天堂右上角搜索到的然后复制上面的链接都可以
+
 # 主要功能如下：
 
 1.可爬取每个分类里的所有漫画
