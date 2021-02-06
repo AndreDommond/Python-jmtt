@@ -8,7 +8,7 @@
 # 最终结果展示：
   ![image](https://github.com/AndreDommond/Python-jmtt/blob/master/img/9.png)
   
-###### 新增功能:
+# 新增功能:
 
 1.可下载单本漫画及其目录
 
