@@ -77,6 +77,10 @@ https://18comic.vip/search/photos?search_query=%E7%84%A1%E4%BF%AE%E6%AD%A3&page=
 
 # ----------------图中忘记加/了，切记切记切记！（最后面不加/保存会有点问题。。）
 
+# 就是变成这样
+
+![image](https://github.com/AndreDommond/Python-jmtt/blob/master/img/15.png)
+
 2.
 ![image](https://github.com/AndreDommond/Python-jmtt/blob/master/img/4.png)
 
