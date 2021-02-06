@@ -75,7 +75,7 @@ https://18comic.vip/search/photos?search_query=%E7%84%A1%E4%BF%AE%E6%AD%A3&page=
 
 # 注意：复制后需要将符号' \ '改为' / '再进行输入，变成D:/Adults/漫画/     
 
-# ----------------图中忘记加/了，切记切记切记！
+# ----------------图中忘记加/了，切记切记切记！（最后面不加/保存会有点问题。。）
 
 2.
 ![image](https://github.com/AndreDommond/Python-jmtt/blob/master/img/4.png)
