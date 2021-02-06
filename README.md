@@ -12,7 +12,7 @@
 
 1.可下载单本漫画及其目录
 
-# 方法如下：
+# 方法如下：（想要爬取的页数输入1即可）
 ![image](https://github.com/AndreDommond/Python-jmtt/blob/master/img/11.png)
 ![image](https://github.com/AndreDommond/Python-jmtt/blob/master/img/12.png)
 ![image](https://github.com/AndreDommond/Python-jmtt/blob/master/img/13.png)
