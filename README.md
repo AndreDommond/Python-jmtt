@@ -5,17 +5,13 @@
 # 使用时需自备代理
 
 # 最终结果展示：
-[image](https://github.com/AndreDommond/Python-jmtt/blob/master/img/9.png)
+
   
 # 新增功能:
 
 1.可下载单本漫画及其目录
 
 # 方法如下：（想要爬取的页数输入1即可）
-[image](https://github.com/AndreDommond/Python-jmtt/blob/master/img/11.png)
-[image](https://github.com/AndreDommond/Python-jmtt/blob/master/img/12.png)
-[image](https://github.com/AndreDommond/Python-jmtt/blob/master/img/13.png)
-[image](https://github.com/AndreDommond/Python-jmtt/blob/master/img/14.png)
 
 2.对反扒处理辨别更加准确（基本100%了）
 
@@ -29,7 +25,7 @@
 
 6.链接通用性增加
 
-# 只要是使用禁漫天堂右上角搜索到的然后复制上面的链接都可以
+# 只要是使用jmtt右上角搜索到的然后复制上面的链接都可以
 
 
 
@@ -37,13 +33,13 @@
 
 1.可爬取每个分类里的所有漫画
 
-[image](https://github.com/AndreDommond/Python-jmtt/blob/master/img/msedge_D28WFqPmCm.png) 
+
 
 2.可自己控制所爬的页数(也可控制想爬的分类)
 
 连接类型 
 
-//https://18comic.vip/search/photos?search_query=%E7%84%A1%E4%BF%AE%E6%AD%A3&page=2
+
 
 类似于这种，去掉后面的（&page=2）的链接类型也可以
 
@@ -70,7 +66,7 @@
 # 使用步骤
 
 1.
-[image](https://github.com/AndreDommond/Python-jmtt/blob/master/img/3.png)
+
 
 # 注意：复制后需要将符号' \ '改为' / '再进行输入，变成D:/Adults/漫画/     
 
@@ -78,22 +74,6 @@
 
 # 就是变成这样
 
-[image](https://github.com/AndreDommond/Python-jmtt/blob/master/img/15.png)
-
-2.
-[image](https://github.com/AndreDommond/Python-jmtt/blob/master/img/4.png)
-
-3.
-[image](https://github.com/AndreDommond/Python-jmtt/blob/master/img/5.png)
-
-4.
-[image](https://github.com/AndreDommond/Python-jmtt/blob/master/img/6.png)
-
-5.
-[image](https://github.com/AndreDommond/Python-jmtt/blob/master/img/7.png)
-
-6.
-[image](https://github.com/AndreDommond/Python-jmtt/blob/master/img/8.png)
 
 # 输入四个变量后按回车即可，exe没有东西出现是正常现象，漫画会自动放到输入的路径里
 
