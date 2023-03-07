@@ -5,17 +5,17 @@
 # 使用时需自备代理
 
 # 最终结果展示：
-  //![image](https://github.com/AndreDommond/Python-jmtt/blob/master/img/9.png)
+[image](https://github.com/AndreDommond/Python-jmtt/blob/master/img/9.png)
   
 # 新增功能:
 
 1.可下载单本漫画及其目录
 
 # 方法如下：（想要爬取的页数输入1即可）
-//![image](https://github.com/AndreDommond/Python-jmtt/blob/master/img/11.png)
-//![image](https://github.com/AndreDommond/Python-jmtt/blob/master/img/12.png)
-//![image](https://github.com/AndreDommond/Python-jmtt/blob/master/img/13.png)
-//![image](https://github.com/AndreDommond/Python-jmtt/blob/master/img/14.png)
+[image](https://github.com/AndreDommond/Python-jmtt/blob/master/img/11.png)
+[image](https://github.com/AndreDommond/Python-jmtt/blob/master/img/12.png)
+[image](https://github.com/AndreDommond/Python-jmtt/blob/master/img/13.png)
+[image](https://github.com/AndreDommond/Python-jmtt/blob/master/img/14.png)
 
 2.对反扒处理辨别更加准确（基本100%了）
 
@@ -37,7 +37,7 @@
 
 1.可爬取每个分类里的所有漫画
 
- //![image](https://github.com/AndreDommond/Python-jmtt/blob/master/img/msedge_D28WFqPmCm.png) 
+[image](https://github.com/AndreDommond/Python-jmtt/blob/master/img/msedge_D28WFqPmCm.png) 
 
 2.可自己控制所爬的页数(也可控制想爬的分类)
 
@@ -70,7 +70,7 @@
 # 使用步骤
 
 1.
-//![image](https://github.com/AndreDommond/Python-jmtt/blob/master/img/3.png)
+[image](https://github.com/AndreDommond/Python-jmtt/blob/master/img/3.png)
 
 # 注意：复制后需要将符号' \ '改为' / '再进行输入，变成D:/Adults/漫画/     
 
@@ -78,22 +78,22 @@
 
 # 就是变成这样
 
-//![image](https://github.com/AndreDommond/Python-jmtt/blob/master/img/15.png)
+[image](https://github.com/AndreDommond/Python-jmtt/blob/master/img/15.png)
 
 2.
-//![image](https://github.com/AndreDommond/Python-jmtt/blob/master/img/4.png)
+[image](https://github.com/AndreDommond/Python-jmtt/blob/master/img/4.png)
 
 3.
-//![image](https://github.com/AndreDommond/Python-jmtt/blob/master/img/5.png)
+[image](https://github.com/AndreDommond/Python-jmtt/blob/master/img/5.png)
 
 4.
-//![image](https://github.com/AndreDommond/Python-jmtt/blob/master/img/6.png)
+[image](https://github.com/AndreDommond/Python-jmtt/blob/master/img/6.png)
 
 5.
-//![image](https://github.com/AndreDommond/Python-jmtt/blob/master/img/7.png)
+[image](https://github.com/AndreDommond/Python-jmtt/blob/master/img/7.png)
 
 6.
-//![image](https://github.com/AndreDommond/Python-jmtt/blob/master/img/8.png)
+[image](https://github.com/AndreDommond/Python-jmtt/blob/master/img/8.png)
 
 # 输入四个变量后按回车即可，exe没有东西出现是正常现象，漫画会自动放到输入的路径里
 
